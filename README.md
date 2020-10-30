@@ -6,7 +6,7 @@ Neural networks in chemical physics struggle with the representation of coordina
 For this model I am dealing with a dataset consisting of 3 random points represented by 
 - <img src="https://latex.codecogs.com/gif.latex?\vec{r_{1}}\=(x_{1},y_{1},z_{1})" /> 
 - <img src="https://latex.codecogs.com/gif.latex?\vec{r_{2}}\= (x_{2},y_{2},z_{2})" /> 
-- <img src="https://latex.codecogs.com/gif.latex?\vec{r_{3}}\{=(x_{2},y_{2},z_{3})}" /> 
+- <img src="https://latex.codecogs.com/gif.latex?\vec{r_{3}}=(x_{2},y_{2},z_{3}\)" /> 
 
 
 

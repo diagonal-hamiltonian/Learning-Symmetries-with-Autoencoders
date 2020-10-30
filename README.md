@@ -4,9 +4,9 @@ My final year project in theoretical physics is titled 'Learning Symmetries with
 Neural networks in chemical physics struggle with the representation of coordinates in space [see arXiv:2001.11696v2]. The reason for this stems from the NN not knowing that the physics of a molecule is invarient under rotation/translation of the positions of the coordinates, ie: the physics of a H_2 molecule in a certain referance frame is the same as the physics of the molecule in the same reference frame upside down.
 
 For this model I am dealing with a dataset consisting of 3 random points represented by 
-- <img src="https://latex.codecogs.com/gif.latex?\vec{r_{1}}\=(x_{1},y_{1},z_{1})" /> 
-- <img src="https://latex.codecogs.com/gif.latex?\vec{r_{2}}\= (x_{2},y_{2},z_{2})" /> 
-- <img src="https://latex.codecogs.com/gif.latex?\vec{r_{3}}=(x_{2},y_{2},z_{3}\)" /> 
+- <img src="https://latex.codecogs.com/gif.latex?\vec{r_{1}}=(x_{1},y_{1},z_{1})" /> 
+- <img src="https://latex.codecogs.com/gif.latex?\vec{r_{2}}=(x_{2},y_{2},z_{2})" /> 
+- <img src="https://latex.codecogs.com/gif.latex?\vec{r_{3}}=(x_{2},y_{2},z_{3})" /> 
 
 
 

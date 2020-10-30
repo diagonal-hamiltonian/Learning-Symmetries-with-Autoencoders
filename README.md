@@ -2,7 +2,7 @@
 My final year project in theoretical physics is titled 'Learning Symmetries with Machine Learning', and in this repo I will be dealing with the (suprisingly difficult) problem of teaching the autoencoder to learn features of a triangular molecule in 3D space.
 
 Neural networks in chemical physics struggle with the representation of coordinates in space [see arXiv:2001.11696v2]. The reason for this stems from the NN not knowing that the physics of a molecule is invarient under rotation/translation of the positions of the coordinates, ie: the physics of a H_2 molecule in a certain referance frame is the same as the physics of the molecule in the same reference frame upside down. For instance in the context of this problem, given the two identical triangles below, the model should consider them the same.
-![alt text](https://github.com/diagonal-hamiltonian/Learning-Symmetries-with-Autoencoders/blob/main/images/two_triangles.pngá¸)
+![alt text](https://github.com/diagonal-hamiltonian/Learning-Symmetries-with-Autoencoders/blob/main/images/two_triangles.png)
 
 
 

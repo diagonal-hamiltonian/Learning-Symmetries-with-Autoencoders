@@ -4,7 +4,7 @@ My final year project in theoretical physics is titled 'Learning Symmetries with
 Neural networks in chemical physics struggle with the representation of coordinates in space [see arXiv:2001.11696v2]. The reason for this stems from the NN not knowing that the physics of a molecule is invarient under rotation/translation of the positions of the coordinates, ie: the physics of a H_2 molecule in a certain referance frame is the same as the physics of the molecule in the same reference frame upside down. For instance in the context of this problem, given the two identical triangles below, the model should consider them the same.
 
 <p align="center">
-  ![alt text](https://github.com/diagonal-hamiltonian/Learning-Symmetries-with-Autoencoders/blob/main/images/two_triangles.png)
+![alt text](https://github.com/diagonal-hamiltonian/Learning-Symmetries-with-Autoencoders/blob/main/images/two_triangles.png)
 </p>
 
 

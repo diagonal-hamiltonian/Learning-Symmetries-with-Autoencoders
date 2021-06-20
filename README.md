@@ -1,5 +1,5 @@
 # Learning Symmetries with Machine Learning
-My year-long final year project in theoretical physics is titled 'Learning Symmetries with Machine Learning'. To explore the (suprisingly difficult) problem, I use a toy model and try of teach an autoencoder to learn features of a triangular molecule in 3D space. Euclidean symmetries are explored and understood in basic shallow NNs, and I shed some light on why NNs struggle dealing with euclidean coordinates. I include the full report in the pdf titled 'writeup', and to give a breif overview of what the thesis entails I leave you with the abstract.
+My year-long final year project in theoretical physics is titled 'Learning Symmetries with Machine Learning'. To explore the (suprisingly difficult) problem, I use a toy model and try of teach an autoencoder to learn features of a triangular molecule in 3D space. Euclidean symmetries are explored and understood in basic shallow NNs, and I shed some light on why NNs struggle dealing with euclidean coordinates. I include the full report in the pdf titled 'writeup', and to give a breif overview of what the thesis entails I leave you with the abstract. There are a number of Jupyter (Google Colab) Notebooks in the folder 'code' which I used to complete the coding, and data analysis aspects of the report.
 
 
 ## Abstract
